@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "HjgbZdj38z4YrQxhnagQabWExF5f7nn8VoLKPzrzhbWf",
+  "symbol": "TPX",
+  "name": "TrumpX",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/qfBrNP0.png",
+  "tags": ["memecoin"]
+}
